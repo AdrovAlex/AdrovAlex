@@ -1,12 +1,5 @@
 ## Hi, my name is Aleksei and I'm a Data Scientist:
 
-### Once I became interested in Data Science and no one saw me more :man_scientist:
-
-
-
-
-
-
 ### 🔭Contact me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.AdrovAlex.ds@gmail.com)
